@@ -64,7 +64,7 @@ const TodoList: React.FC<Props> = ({ userId }) => {
 		});
 
 		return () => unsubscribe();
-	}, []);
+	}, [userId]);
 
 	const addTodo = async (e: React.FormEvent) => {
 		e.preventDefault();
