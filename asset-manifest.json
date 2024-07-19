@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/six0860613/comdek-todolist-demo/static/css/main.6198f172.css",
+    "main.js": "/six0860613/comdek-todolist-demo/static/js/main.2c657952.js",
+    "static/js/453.f41db993.chunk.js": "/six0860613/comdek-todolist-demo/static/js/453.f41db993.chunk.js",
+    "index.html": "/six0860613/comdek-todolist-demo/index.html",
+    "main.6198f172.css.map": "/six0860613/comdek-todolist-demo/static/css/main.6198f172.css.map",
+    "main.2c657952.js.map": "/six0860613/comdek-todolist-demo/static/js/main.2c657952.js.map",
+    "453.f41db993.chunk.js.map": "/six0860613/comdek-todolist-demo/static/js/453.f41db993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6198f172.css",
+    "static/js/main.2c657952.js"
+  ]
+}
