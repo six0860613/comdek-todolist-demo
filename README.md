@@ -8,8 +8,10 @@ Password: test1234
 ## Features
 - Register and login to keep data with your own account
 - Realtime updates on different devices
+- Immediately updates at the same time
 - Filter items with search queries, sorted with pagination and page limit
 - Ascending and descending order with task, priority, deadline
+- Export todolist to a csv file
 
 ## Tools and Packages in use
 - React 18
