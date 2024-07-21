@@ -13,7 +13,7 @@ function App() {
 	}, []);
 
 	return (
-		<div className="App">
+		<div className="h-[100dvh] w-full flex justify-center p-6 bg-stone-300">
 			{user ? <ToDoList userId={user.uid} /> : <Login />}
 		</div>
 	);
