@@ -1,10 +1,10 @@
 # comdek-todolist-demo
-This is a simple todolist app 
-View a production version hosted with github page : [LINK](https://six0860613.github.io/comdek-todolist-demo/) 
+This is a simple todolist app  
+View a production version hosted with github page : [LINK](https://six0860613.github.io/comdek-todolist-demo/)  
 
-You can register a new account for yourself, or use the test account below. 
-Account: test@gmail.com 
-Password: test1234 
+You can register a new account for yourself, or use the test account below.  
+Account: test@gmail.com  
+Password: test1234  
 ## Features
 - Register and login to keep data with your own account
 - Realtime updates on different devices
