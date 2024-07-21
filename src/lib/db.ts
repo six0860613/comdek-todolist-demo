@@ -4,13 +4,13 @@ import { getAuth } from "firebase/auth";
 // import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyB5QgyAcXQUFvjfZ0sczlT12dBlCb6TLWY",
-	authDomain: "comdek-todolist-demo.firebaseapp.com",
-	projectId: "comdek-todolist-demo",
-	storageBucket: "comdek-todolist-demo.appspot.com",
-	messagingSenderId: "446263739808",
-	appId: "1:446263739808:web:88f31ab39c0b8d582210c5",
-	measurementId: "G-73L7009DPP",
+	apiKey: process.env.REACT_APP_APIKEY,
+	authDomain: process.env.REACT_APP_AUTHDOMAIN,
+	projectId: process.env.REACT_APP_PROJECTID,
+	storageBucket: process.env.REACT_APP_STORAGEBUCKET,
+	messagingSenderId: process.env.REACT_APP_MESSAGINGSENDERID,
+	appId: process.env.REACT_APP_APPID,
+	measurementId: process.env.REACT_APP_MEASUREMENTID,
 };
 const app = initializeApp(firebaseConfig);
 // const analytics = getAnalytics(app);
